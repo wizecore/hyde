@@ -14,10 +14,10 @@ url:              https://wizecore.com
 baseurl:          /
 
 author:
-  name:           'Wizecore'
-  url:            https://wizecore.com
+  name:           Huksley
+  url:            http://гайнутдинов.рф
 
-paginate:         2
+paginate:         5
 paginate_path:    "/blog/page:num/"
 
 # Custom vars
