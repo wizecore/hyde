@@ -1,3 +1,16 @@
 body.wizecore .sidebar-about h1 {
 	font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
+
+body.wizecore .sidebar {
+	background-image: url(/public/pixelate.png);
+	-webkit-backface-visibility:inherit;
+	transform: translateZ(0);
+	-moz-transform: translatez(0);
+	-ms-transform: translatez(0);
+	-o-transform: translatez(0);
+	-webkit-transform: translateZ(0);
+	-webkit-font-smoothing: antialiased;
+	
+	background: linear-gradient(to bottom, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0.0) 100%), url(/public/pixelate.png) repeat 0 0;
+}
