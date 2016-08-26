@@ -14,6 +14,7 @@ We are small, fit group of software developers dedicated to create great softwar
  * IBM ODM/JRules
  * Activiti/Camunda BPM
  * Graylog
+ * Relational and NoSQL dbs
 
 Note: this list is not complete!!!
 
