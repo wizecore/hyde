@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Strategic planning is dead
 ---
 ## Strategic planning is dead
 
