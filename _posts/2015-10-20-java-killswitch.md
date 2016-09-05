@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## Update-me-now killswitch in Java 7
 
@@ -11,6 +12,6 @@ While it is usual to read every week announcements about new exploits in Java th
 
 There is a whole thread dedicated to prevent Java to display various Update me dialogs
 
-http://www.symantec.com/connect/forums/how-everyone-addressing-forced-java-dialog-java-update-needed-your-java-version-insecure
+[http://www.symantec.com/connect/forums/how-everyone-addressing-forced-java-dialog-java-update-needed-your-java-version-insecure](http://www.symantec.com/connect/forums/how-everyone-addressing-forced-java-dialog-java-update-needed-your-java-version-insecure)
 
 Of cource you must update Java, but all this prompts in Corporate environment is pointless because user does not have enough rights to Update java.
