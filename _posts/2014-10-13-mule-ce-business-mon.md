@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
+title: Mule business event logging via ServerNotificationListener
 ---
-## Mule business event logging via ServerNotificationListener
-
 Mule CE 3.5.0 does not have any sort of business monitoring. Only logs with lots of technical information.
 
 So you must setup your own infrastructure, for example using [Graylog](http://graylog.org/) or [Logstash + Kibana](http://thepracticalsysadmin.com/introduction-to-logstashelasticsearchkibana/).
