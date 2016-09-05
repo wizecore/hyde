@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ## Mule business event logging via ServerNotificationListener
