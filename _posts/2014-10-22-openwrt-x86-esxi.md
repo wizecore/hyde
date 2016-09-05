@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ## OpenWRT x86 in VMWare ESXi
