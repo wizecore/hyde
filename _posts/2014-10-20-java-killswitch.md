@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
+title: Update-me-now killswitch in Java 7
 ---
-## Update-me-now killswitch in Java 7
-
 After Java 7 update 17 Sun/Oracle implemented a kill switch which prevents installed java working after compiled in specific date (roughly 3 months after release) displaing prompts ala
 
 "This version of Java is not secure"
