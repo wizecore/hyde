@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
+title: OpenWRT x86 in VMWare ESXi
 ---
-## OpenWRT x86 in VMWare ESXi
-
 In ESXi routing, NAT and other advanced networking must be accomplished through Router Virtual Machine. DD-WRT is fine example which works stable, but it costs money to run it on x86.
 
 You can use OpenWRT the same way as DD-WRT.
