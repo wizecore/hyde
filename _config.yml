@@ -31,5 +31,7 @@ paginate_path:    "/blog/page:num/"
 # Custom vars
 version:          2.0
 
+excerpt_separator: <!--more-->
+
 github:
   repo:           https://github.com/wizecore
