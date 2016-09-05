@@ -6,11 +6,11 @@ layout: post
 
 Mule CE 3.5.0 does not have any sort of business monitoring. Only logs with lots of technical information.
 
-So you must setup your own infrastructure, for example using Graylog2 or Logstash + Kibana.
+So you must setup your own infrastructure, for example using [Graylog](http://graylog.org/) or [Logstash + Kibana](http://thepracticalsysadmin.com/introduction-to-logstashelasticsearchkibana/).
 
 But first of all how to get high level information about flows and events in your Mule ESB?
 
-1) Do not init listeners via registry-bootstrap.properties as described in Start Me Oh So Gently
+1) Do not init listeners via registry-bootstrap.properties as described in [Start Me Oh So Gently](http://blogs.mulesoft.org/start-me-oh-so-gently/)
 
 The MuleContext instance and internal NotificationManager and it`s Policy field will be overwritten later in process with new instance (this only applies to running in standalone mode, somehow running flow in IDE does not produce such behaviour)
 
